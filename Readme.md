@@ -10,6 +10,7 @@ Tools Free for Terraform files
 
 - terrascan
 - terralint
+- terracost
 
 
 ### How to use
